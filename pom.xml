@@ -36,7 +36,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>Anoop_kp</username>
 						<password>Qwertyui896!</password>
-						<applicationName>fhir-demo</applicationName>
+						<applicationName>fhir-demo-api</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
